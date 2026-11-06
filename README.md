@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @HyungJinKwon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...rnjsgudwls1236@gmail.com
+## Hi, I’m HyungJinKwon 👋
 
-<!---
-HyungJinKwon/HyungJinKwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔐 I’m studying cybersecurity, focusing on penetration testing and red and blue team operations.
+- 🧪 I’m building hands-on skills through Dreamhack and Hack The Box.
+- 💞️ I’m interested in collaborating on cybersecurity learning projects and CTFs.
+- 📫 Reach me at [rnjsgudwls1236@gmail.com](mailto:rnjsgudwls1236@gmail.com).
